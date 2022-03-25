@@ -8,4 +8,4 @@ Particle Detectors: Fundamentals and Applications, Hermann Kolanoski, Norbert We
 
 Details about the function themselves are given in the comments that accompany the code.
 
-The pdf files provide some information about the the Weighting_field_calculation file and the Electric_field_calculation file
+The pdf files provide some information about the the Weighting_field_calculation file and the Electric_field_calculation file.
